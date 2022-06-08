@@ -1,13 +1,3 @@
-.educacao {
-    display: flex;
-    flex-direction: column;
-    border-radius: 20px;
-    background-color: #302F3D;
-    margin: 10px;
-    width: 348px;
-    height: 352px;
-}
-
 .li-educacao {
     list-style-type: disc;
     padding: 0;

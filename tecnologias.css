@@ -1,23 +1,15 @@
-.tecnologias {
+.icons {
     display: flex;
-    flex-direction: column;
-    border-radius: 20px;
-    background-color: #302F3D;
-    margin: 10px;
-    width: 348px;
-    height: 208px;
+    flex-direction: row;
+    gap: 10px;
+    padding: 20px;
 }
 
-h2 {
-    text-align: center;
-    width: 121px;
-    height: 26px;
-    color: #837E9F;
-    margin: 20px auto;
-}
-
-.img-icons {
-    display: flex;
-    justify-content: center;
-    margin: 20px;
+.tecnologias p {
+    background-color: #CB92B1;
+    border-radius: 30px;
+    width: 86px;
+    height: 24px;
+    color: black;
+    font-size: 10px;
 }

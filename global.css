@@ -6,3 +6,25 @@ body {
     min-height: 100%;
     background-color: #22212C;
 }
+
+h1 {
+    margin: 20px auto;
+    font-size: 23px;
+    width: 196px;
+    height: 26px;
+    color: #837E9F;
+}
+
+h2 {
+    text-align: center;
+    width: 121px;
+    height: 26px;
+    color: #837E9F;
+    margin: 20px auto;
+}
+
+p {
+    font-size: 13px;
+    text-align: center;
+    color: #837E9F;
+}
