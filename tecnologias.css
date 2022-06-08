@@ -1,0 +1,23 @@
+.tecnologias {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: #302F3D;
+    margin: 10px;
+    width: 348px;
+    height: 208px;
+}
+
+h2 {
+    text-align: center;
+    width: 121px;
+    height: 26px;
+    color: #837E9F;
+    margin: 20px auto;
+}
+
+.img-icons {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
