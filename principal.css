@@ -3,16 +3,8 @@
     flex-direction: column;
 }
 
-.my-projects {
-    display: inline;
-    border-radius: 20px;
-    background-color: #302F3D;
-    width: 952px;
-    height: 86px;
-    margin: 10px
-}
-
-.my-projects {
+.my-projects,
+.posts {
     display: inline;
     border-radius: 20px;
     background-color: #302F3D;
@@ -27,6 +19,13 @@
     font-size: 20px;
     padding: 10px;
     margin: 10px;
+}
+
+.posts h2 {
+    text-align: left;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 30px;
 }
 
 .my-projects p {
